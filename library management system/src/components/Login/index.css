@@ -1,0 +1,30 @@
+/* #root { */
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+#basic {
+    width: 600px;
+    height: 439px;
+    border-radius: 20px;
+    box-shadow: rgb(190, 182, 182) 0 0 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.ant-form-item{
+    margin-right: 100px;
+    width: 100%;
+}
+.ant-form-item-control-input-content{
+    justify-content: center;
+}
+.ant-form-item-control-input-content{
+    display: flex;
+}
