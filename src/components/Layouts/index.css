@@ -1,0 +1,11 @@
+#root,.ant-layout,.layout,.ant-layout-content{
+    height: 100%;
+}
+.userName{
+    color: white;
+}
+.quit{
+    top: 20px;
+    right: 100px;
+    position: absolute;
+}
